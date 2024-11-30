@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: # "Live and Learn."
 name: "Teetphum"
 description: "This site tracks creator skill development over time."
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://teetphum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: /teetphum
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
