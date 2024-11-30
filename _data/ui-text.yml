@@ -88,7 +88,7 @@ th: &DEFAULT_TH
   related_label: "คุณอาจจะชอบสิ่งนี้"
   follow_label: "ติดตาม:"
   feed_label: "ฟืดข่าว"
-  powered_by: "ขับเคลื่อนโดย"
+  powered_by: "Powered by"
   website_label: "เว็บไซต์"
   email_label: "อีเมล"
   recent_posts: "โพสล่าสุด"
