@@ -17,7 +17,7 @@ minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "th-TH"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
 title: "Teetphum"
-title_separator: "|"
+title_separator: "-"
 subtitle: # "Live and Learn."
 name: "Teetphum"
 description: "This site tracks creator skill development over time."
