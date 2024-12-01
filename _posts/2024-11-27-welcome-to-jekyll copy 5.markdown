@@ -1,8 +1,12 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Post 3!"
 date:   2024-11-27 17:44:05 +0700
-categories: jekyll update
+categories:
+  - learning
+tags:
+  - video
+  - new
 toc: true
 toc_label: custom name
 toc_icon: fa-solid fa-bolt

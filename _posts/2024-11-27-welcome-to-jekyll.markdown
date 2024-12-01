@@ -1,8 +1,12 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Post 1"
 date:   2024-11-27 17:44:05 +0700
-categories: jekyll update
+categories:
+  - programming
+tags:
+  - blog
+  - new
 toc: true
 toc_label: custom name
 toc_icon: fa-solid fa-bolt

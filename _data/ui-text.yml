@@ -75,7 +75,7 @@ th: &DEFAULT_TH
   search_label: "พับการค้นหา"
   toc_label: "บนหน้านี้"
   ext_link_label: "ลิงก์โดยตรง"
-  less_than: "น้อยกว่า"
+  less_than: "ใช้เวลาน้อยกว่า"
   minute_read: "นาที ในการอ่าน"
   share_on_label: "แชร์ไปที่"
   meta_label:
