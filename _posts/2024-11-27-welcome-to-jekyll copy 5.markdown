@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Post 3!"
-date:   2024-11-27 17:44:05 +0700
+date:   2024-11-22 17:44:05 +0700
 categories:
   - learning
 tags:

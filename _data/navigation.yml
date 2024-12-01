@@ -3,7 +3,7 @@ main:
   - title: "Blogs"
     url: /blogs/
   - title: "Brag-documents"
-    url: https://www.google.com/
+    url: /brag-document/
   - title: "Summary"
     url: https://www.google.com/
   - title: "About"

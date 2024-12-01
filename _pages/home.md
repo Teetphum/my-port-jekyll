@@ -19,6 +19,20 @@ feature_row:
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/blogs/"
     btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/kitty-cat-kitten-pet-45201.jpeg
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/blogs/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
+  - image_path: /assets/images/kitty-cat-kitten-pet-45201.jpeg
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/blogs/"
+    btn_class: "btn--primary"
     btn_label: "Learn more" 
 feature_row3:
   - image_path: /assets/images/kitty-cat-kitten-pet-45201.jpeg
@@ -31,5 +45,5 @@ feature_row3:
 ---
 
 {% include feature_row id="quote" type="center" %}
-{% include feature_row id="feature_row" type="left" %}
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row3" type="center" %}

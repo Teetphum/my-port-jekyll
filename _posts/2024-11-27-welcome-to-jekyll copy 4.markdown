@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Post 4!"
-date:   2024-11-27 17:44:05 +0700
+date:   2024-11-23 17:44:05 +0700
 categories:
   - programming
 tags:
