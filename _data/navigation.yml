@@ -1,12 +1,10 @@
 # main links
 main:
   - title: "Blogs"
-    url: https://www.google.com/
+    url: /blogs/
   - title: "Brag-documents"
     url: https://www.google.com/
   - title: "Books"
-    url: https://www.google.com/
-  - title: "Videos"
     url: https://www.google.com/
   - title: "About"
     url: https://www.google.com/
