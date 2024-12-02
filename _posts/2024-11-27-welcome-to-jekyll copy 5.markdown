@@ -4,6 +4,7 @@ title:  "Post 3!"
 date:   2024-11-22 17:44:05 +0700
 categories:
   - learning
+  - summary
 tags:
   - video
   - new

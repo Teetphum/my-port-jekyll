@@ -1,0 +1,28 @@
+---
+layout: single
+permalink: /summary/
+title: Summary page
+---
+
+<br>
+<p>
+    <a href="#" class="btn btn--facebook btn--large">
+        <i class="fas fa-book"></i>  Book summary
+    </a>
+</p>
+
+<p>
+    <a href="#" class="btn btn--facebook btn--large">
+        <i class="fas fa-circle-play"></i> Video summary
+    </a>
+</p>
+
+{% for post in site.posts %}
+    {% for cat in post.categories %}
+        {% for tag in post.tags %}
+            {% if cat == "summary" and tag == "book" %}
+                {{ post.title }}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}

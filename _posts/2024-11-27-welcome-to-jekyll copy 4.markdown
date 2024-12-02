@@ -4,6 +4,7 @@ title:  "Post 4!"
 date:   2024-11-23 17:44:05 +0700
 categories:
   - programming
+  - summary
 tags:
   - video
   - new

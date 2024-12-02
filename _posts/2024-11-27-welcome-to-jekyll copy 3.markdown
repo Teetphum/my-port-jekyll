@@ -4,6 +4,7 @@ title:  "Post 5!"
 date:   2024-11-24 17:44:05 +0700
 categories:
   - programming
+  - summary
 tags:
   - book
   - new

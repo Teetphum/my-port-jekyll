@@ -4,6 +4,7 @@ title:  "Post 2"
 date:   2024-11-21 17:44:05 +0700
 categories:
   - philosophy
+  - summary
 tags:
   - book
   - new
