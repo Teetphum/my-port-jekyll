@@ -5,6 +5,6 @@ main:
   - title: "Brag-documents"
     url: /brag-document/
   - title: "Summary"
-    url: https://www.google.com/
+    url: /summary/
   - title: "About"
-    url: https://www.google.com/
+    url: /about/

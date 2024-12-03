@@ -4,9 +4,11 @@ title:  "Post 6!"
 date:   2024-11-25 17:44:05 +0700
 categories:
   - programming
+  - summary
 tags:
   - blog
   - data engineer
+  - book
 toc: true
 toc_label: custom name
 toc_icon: fa-solid fa-bolt
