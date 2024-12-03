@@ -335,14 +335,16 @@ defaults:
       type: brag-document
     values:
       layout: single
+      read_time: true
       author_profile: false
-      share: true
+      share: false
       comments: # true
   - scope:
       path: ""
       type: book
     values:
       layout: single
+      read_time: true
       author_profile: false
       share: true
       comments: # true
@@ -351,6 +353,7 @@ defaults:
       type: clip
     values:
       layout: single
+      read_time: true
       author_profile: false
       share: true
       comments: # true
