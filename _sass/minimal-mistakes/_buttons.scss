@@ -40,7 +40,8 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (linkedin, $linkedin-color),
-  (youtube, $youtube-color);
+  (youtube, $youtube-color),
+  (x-twitter, $x-twitter-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {

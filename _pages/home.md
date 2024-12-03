@@ -4,8 +4,8 @@ permalink: /
 hidden: true
 title: " "
 header:
-  overlay_image: assets/images/home-cover-img.jpg
-  # overlay_color: "#5e616c"
+  # overlay_image: assets/images/home-cover-img.jpg
+  overlay_color: "#e9dcbe"
   # actions:
   #   - label: "<i class='fas fa-bolt'></i> Just do it!"
   #     url: "https://www.google.com/"
@@ -18,23 +18,23 @@ feature_row:
     alt: "customizable"
     title: "Career"
     excerpt: "All about programming that i use for work."
-    url: "/blogs/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    # url: "/blogs/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
   - image_path: assets/images/interest.jpg
     alt: "customizable"
     title: "Interest"
     excerpt: "Programming tools or topics that i currently interested in."
-    url: "/blogs/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more" 
+    # url: "/blogs/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more" 
   - image_path: assets/images/hobby.jpg
     alt: "customizable"
     title: "Hobby"
     excerpt: "All of my hobbies that i'm doing at a time."
-    url: "/blogs/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    # url: "/blogs/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
 reminder:
   - excerpt: "In case you're feeling weak again. <br> ...watch this..."
 ---
