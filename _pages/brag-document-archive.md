@@ -8,5 +8,4 @@ classes: wide
 sort_by: :year
 sort_order: reverse
 ---
-
-Sample document listing for the collection `_brag-document`.
+<hr>

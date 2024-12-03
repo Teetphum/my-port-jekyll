@@ -5,6 +5,7 @@ hidden: true
 title: " "
 header:
   overlay_image: assets/images/home-cover-img.jpg
+  caption: "credit: [**Unsplash**](https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw)"
   # overlay_color: "#e9dcbe"
   # actions:
   #   - label: "<i class='fas fa-bolt'></i> Just do it!"
