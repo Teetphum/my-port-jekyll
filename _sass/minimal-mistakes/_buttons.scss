@@ -41,7 +41,8 @@
   (twitter, $twitter-color),
   (linkedin, $linkedin-color),
   (youtube, $youtube-color),
-  (x-twitter, $x-twitter-color);
+  (x-twitter, $x-twitter-color),
+  (calendar, $calendar-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
