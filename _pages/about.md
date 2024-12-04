@@ -16,3 +16,9 @@ permalink: /about/
     </a>
 </p>
 <hr>
+<p>
+    <a href="{{ '/years/' | relative_url }}" class="btn btn--calendar btn--large">
+        <i class="fas fa-calendar"></i>  Group post by year
+    </a>
+</p>
+<hr>
