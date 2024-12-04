@@ -1,6 +1,12 @@
 ---
 title: "4 ขั้นตอน : ที่ใช้ในการเรียนรู้อะไรก็ได้"
 layout: single
+categories: 
+    - summary
+    - video
+tags:
+    - learning
+    - self improve
 ---
 
 เมื่อการเรียนรู้ทักษะใดทักษะหนึ่งให้เข้าใจ อาจไม่ต้องใช้เวลาถึง 10,000 ชั่วโมง เสมอไป
@@ -43,5 +49,3 @@ How to learn anything \
 
 ### 4. Practice at least 20 Hours 
 ใช้เวลาเรียนรู้ อยู่กับสิ่งนั้นอย่างน้อย 20 ชั่วโมง
-
-
