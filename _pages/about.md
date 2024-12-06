@@ -5,7 +5,7 @@ permalink: /about/
 
 <hr>
 <p>
-    <a href="{{ '/categories/' | relative_url }}" class="btn btn--success btn--large">
+    <a href="{{ '/categories/' | relative_url }}" class="btn btn--danger btn--large">
         <i class="fas fa-layer-group"></i>  Group post by category
     </a>
 </p>
