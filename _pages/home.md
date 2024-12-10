@@ -40,7 +40,56 @@ reminder:
   - excerpt: "In case you're feeling weak again. <br> ...watch this..."
 ---
 
-{% include feature_row id="feature_row" %}
+<div class="feature__wrapper">
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Recent Blog</h2>
+        <div class="archive__item-excerpt">
+          {% for post in site.posts limit:1 %}
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            {% if post.excerpt %}
+              <p class="archive__item-excerpt" itemprop="description">
+                {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+              </p>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <br>
+  </div>
+
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Recent Book Summary</h2>
+        <div class="archive__item-excerpt">
+          {% assign latest_book = site.book | sort: 'date' | last %}
+          <h3><a href="{{ latest_book.url | relative_url }}">{{ latest_book.title }}</a></h3>
+          <p>{{ latest_book.description }}</p>
+        </div>
+      </div>
+    </div>
+    <br>
+  </div>
+
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Recent Video Summary</h2>
+        <div class="archive__item-excerpt">
+          {% assign latest_video = site.clip | sort: 'date' | last %}
+          <h3><a href="{{ latest_video.url | relative_url }}">{{ latest_video.title }}</a></h3>
+          <p>{{ latest_video.description }}</p>
+        </div>
+      </div>
+    </div>
+    <br>
+  </div>
+</div>
+
+<!-- {% include feature_row id="feature_row" %} -->
 {% include feature_row id="reminder" type="center" %}
 
 {% include video id="Z1mlyfza9i8" provider="youtube" %}
