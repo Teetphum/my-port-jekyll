@@ -44,7 +44,7 @@ reminder:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-body">
-        <h2 class="archive__item-title">Recent Blog</h2>
+        <h2 class="archive__item-title" style="color: #fa9b39;">Recent Blog</h2>
         <div class="archive__item-excerpt">
           {% for post in site.posts limit:1 %}
             <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
@@ -63,7 +63,7 @@ reminder:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-body">
-        <h2 class="archive__item-title">Recent Book Summary</h2>
+        <h2 class="archive__item-title" style="color: #fa9b39;">Recent Book Summary</h2>
         <div class="archive__item-excerpt">
           {% assign latest_book = site.book | sort: 'date' | last %}
           <h3><a href="{{ latest_book.url | relative_url }}">{{ latest_book.title }}</a></h3>
@@ -77,7 +77,7 @@ reminder:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-body">
-        <h2 class="archive__item-title">Recent Video Summary</h2>
+        <h2 class="archive__item-title" style="color: #fa9b39;">Recent Video Summary</h2>
         <div class="archive__item-excerpt">
           {% assign latest_video = site.clip | sort: 'date' | last %}
           <h3><a href="{{ latest_video.url | relative_url }}">{{ latest_video.title }}</a></h3>
