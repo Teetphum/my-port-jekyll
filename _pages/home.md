@@ -92,5 +92,5 @@ reminder:
 <!-- {% include feature_row id="feature_row" %} -->
 {% include feature_row id="reminder" type="center" %}
 
-<!-- {% include video id="Z1mlyfza9i8" provider="youtube" %}
-{% include video id="fcvHgr9Nb7Q" provider="youtube" %} -->
+<!-- {% include video id="Z1mlyfza9i8" provider="youtube" %} -->
+<!-- {% include video id="fcvHgr9Nb7Q" provider="youtube" %} -->
