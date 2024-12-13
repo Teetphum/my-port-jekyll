@@ -36,6 +36,9 @@ tagline: >
 #     url: "#"
 #     btn_class: "btn--primary"
 #     btn_label: "Coming soon..."
+# {% include feature_row id="feature_row" %}
+# {% include video id="Z1mlyfza9i8" provider="youtube" %}
+# {% include video id="fcvHgr9Nb7Q" provider="youtube" %}
 reminder:
   - excerpt: " FORTUNE FAVORS THE BRAVE "
 ---
@@ -89,8 +92,4 @@ reminder:
   </div>
 </div>
 
-<!-- {% include feature_row id="feature_row" %} -->
 {% include feature_row id="reminder" type="center" %}
-
-<!-- {% include video id="Z1mlyfza9i8" provider="youtube" %} -->
-<!-- {% include video id="fcvHgr9Nb7Q" provider="youtube" %} -->
