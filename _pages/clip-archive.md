@@ -1,7 +1,7 @@
 ---
 title: Video
 layout: collection
-permalink: /videos/
+permalink: /summary/videos/
 collection: clip
 entries_layout: list
 ---

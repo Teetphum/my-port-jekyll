@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Post 6!"
+title:  "Test article"
 excerpt: AASSSDDSSAA
 date:   2024-11-25 17:44:05 +0700
 categories:
