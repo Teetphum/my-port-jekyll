@@ -1,7 +1,7 @@
 ---
 title: Books
 layout: collection
-permalink: /books/
+permalink: /summary/books/
 collection: book
 entries_layout: list
 ---
