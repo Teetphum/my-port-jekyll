@@ -3,7 +3,6 @@ title: สิ่งที่คนในวัย 20 ควรรู้
 description: สรุปหนังสือ The Deifining Decade
 layout: single
 toc: true
-toc_label: สารบัญ
 date: 2024-12-10 18:44:05 +0700
 ---
 

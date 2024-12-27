@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Test article"
-excerpt: AASSSDDSSAA
+excerpt: This is my excerpt.
 date:   2024-11-25 17:44:05 +0700
 categories:
   - programming
