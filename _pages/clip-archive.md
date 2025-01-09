@@ -2,6 +2,6 @@
 title: Video
 layout: collection
 permalink: /summary/video/
-collection: clip
+collection: video
 entries_layout: list
 ---
