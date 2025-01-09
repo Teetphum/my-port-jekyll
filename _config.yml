@@ -219,7 +219,7 @@ sass:
   quiet_deps: true
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /blogs/:categories/:title/
 timezone: Asia/Bangkok # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination with jekyll-paginate
@@ -305,10 +305,10 @@ collections:
     permalink: /:collection/:path/
   book:
     output: true
-    permalink: /:collection/:path/
+    permalink: /summary/:collection/:path/
   clip:
     output: true
-    permalink: /:collection/:path/
+    permalink: /summary/:collection/:path/
 
 # Defaults
 defaults:
