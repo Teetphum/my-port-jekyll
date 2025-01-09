@@ -82,7 +82,7 @@ reminder:
       <div class="archive__item-body">
         <h2 class="archive__item-title" style="color: #fa9b39;">Recent Video Summary</h2>
         <div class="archive__item-excerpt">
-          {% assign latest_video = site.clip | sort: 'date' | last %}
+          {% assign latest_video = site.video | sort: 'date' | last %}
           <h3><a href="{{ latest_video.url | relative_url }}">{{ latest_video.title }}</a></h3>
           <p>{{ latest_video.description }}</p>
         </div>
